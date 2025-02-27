@@ -5,7 +5,7 @@ This project displays a list of countries and provides weather details for the s
 Getting Started
 1. Clone the Repository
 Open your terminal and run:
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git]
 cd your-repository
 
 2. Install Dependencies
